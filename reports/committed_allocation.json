@@ -1,0 +1,147 @@
+{
+  "committed_at": "2026-07-28T01:41:34.997777+00:00",
+  "human_approved": true,
+  "approver_note": "Reviewed all 20 companies manually; company_id 234 (h1b_history=False) kept in the plan despite lower predicted probability because I have a personal referral there that the model has no way to see.",
+  "allocation": [
+    {
+      "company_id": 13,
+      "allocated_hours": 1,
+      "company_size": "midsize",
+      "h1b_history": true,
+      "fit_score": 9.77
+    },
+    {
+      "company_id": 23,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 7.58
+    },
+    {
+      "company_id": 260,
+      "allocated_hours": 1,
+      "company_size": "midsize",
+      "h1b_history": true,
+      "fit_score": 9.46
+    },
+    {
+      "company_id": 257,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 7.89
+    },
+    {
+      "company_id": 234,
+      "allocated_hours": 1,
+      "company_size": "midsize",
+      "h1b_history": false,
+      "fit_score": 10.0
+    },
+    {
+      "company_id": 201,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 8.14
+    },
+    {
+      "company_id": 197,
+      "allocated_hours": 1,
+      "company_size": "midsize",
+      "h1b_history": true,
+      "fit_score": 10.0
+    },
+    {
+      "company_id": 182,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 6.1
+    },
+    {
+      "company_id": 180,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 7.17
+    },
+    {
+      "company_id": 174,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 7.75
+    },
+    {
+      "company_id": 172,
+      "allocated_hours": 1,
+      "company_size": "midsize",
+      "h1b_history": true,
+      "fit_score": 7.95
+    },
+    {
+      "company_id": 162,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 8.04
+    },
+    {
+      "company_id": 139,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 8.28
+    },
+    {
+      "company_id": 124,
+      "allocated_hours": 1,
+      "company_size": "midsize",
+      "h1b_history": true,
+      "fit_score": 7.7
+    },
+    {
+      "company_id": 117,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 8.14
+    },
+    {
+      "company_id": 73,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 7.35
+    },
+    {
+      "company_id": 62,
+      "allocated_hours": 1,
+      "company_size": "midsize",
+      "h1b_history": true,
+      "fit_score": 7.94
+    },
+    {
+      "company_id": 45,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 9.6
+    },
+    {
+      "company_id": 25,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 6.59
+    },
+    {
+      "company_id": 293,
+      "allocated_hours": 1,
+      "company_size": "enterprise",
+      "h1b_history": true,
+      "fit_score": 9.08
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+company_id,company_size,h1b_history,wage_level,funding_recent,github_activity,fit_score,effort_hours_historical,callback,data_source,record_timestamp,funding_recent_asof_months_ago,gigo_fail_reason
+5,startup,True,,1,4.46,3.43,1.68,0,synthetic_v1,2026-07-01,5,missing_wage_level
+53,enterprise,True,,1,4.44,4.71,4.82,0,synthetic_v1,2026-07-01,3,missing_wage_level
+104,enterprise,True,,1,8.89,6.29,5.79,1,synthetic_v1,2026-07-01,1,missing_wage_level
+110,enterprise,False,2.0,1,8.37,5.98,2.79,0,synthetic_v1,2026-07-01,19,stale_funding_recent_flag
+134,startup,True,,1,4.01,6.43,5.54,1,synthetic_v1,2026-07-01,5,missing_wage_level
+157,startup,True,,1,3.83,7.04,3.58,0,synthetic_v1,2026-07-01,0,missing_wage_level
+183,midsize,False,,1,6.79,5.79,3.34,0,synthetic_v1,2026-07-01,0,missing_wage_level
+231,startup,False,,1,1.83,3.75,3.38,0,synthetic_v1,2026-07-01,2,missing_wage_level
+242,enterprise,True,,1,8.95,9.43,8.34,1,synthetic_v1,2026-07-01,4,missing_wage_level
+101,enterprise,True,2.0,1,7.61,4.31,4.02,0,synthetic_v1,2026-07-01,4,duplicate_company_id
+33,startup,False,1.0,0,1.79,6.58,4.46,0,synthetic_v1,2026-07-01,2,duplicate_company_id
+72,midsize,True,3.0,0,3.57,4.27,3.7,0,synthetic_v1,2026-07-01,4,duplicate_company_id
+227,startup,True,3.0,0,2.79,5.04,4.61,0,synthetic_v1,2026-07-01,2,duplicate_company_id
